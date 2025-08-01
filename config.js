@@ -281,7 +281,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/5gtqRPtp/MEF-AAP-027-BAP-PART-II-2025-07-30-13-18-14.png',
+            image: 'https://iili.io/FgPuSFn.png',
             description: '',
             location: {
                 center: [28.673,41.301],
